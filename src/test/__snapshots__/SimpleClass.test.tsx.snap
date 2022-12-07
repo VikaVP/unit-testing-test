@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimpleClass Page snapshot showing screen 1`] = `
+<Fragment>
+  <div
+    style={
+      {
+        "margin": "50px",
+      }
+    }
+  >
+    <input
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>
+  <div>
+    <button
+      onClick={[Function]}
+    >
+      Tes Class
+    </button>
+  </div>
+  <p
+    style={
+      {
+        "margin": "50px",
+      }
+    }
+  />
+</Fragment>
+`;
